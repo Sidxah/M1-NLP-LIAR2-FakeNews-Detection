@@ -140,7 +140,7 @@ jupyter notebook fake_news_liar2_project.ipynb
 
 ## Acknowledgments
 
-- **Professor** — Hands-on NLP course, Université Paris-Saclay
+- **Professor Kim Gerdes & Nona Naderi** — Hands-on NLP course, Université Paris-Saclay
 - **William Yang Wang** — for creating the original LIAR dataset
 - **PolitiFact** — for the fact-checking data
 - **Hugging Face** — for hosting the dataset and transformer models
